@@ -1,0 +1,10 @@
+# Core application dependencies
+streamlit
+ultralytics==8.4.123
+opencv-python
+numpy
+Pillow
+
+# PyTorch
+torch==2.11.0
+torchvision==0.26.0
